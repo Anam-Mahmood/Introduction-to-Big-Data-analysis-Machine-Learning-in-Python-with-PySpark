@@ -9,7 +9,7 @@
 ### Event recording: https://www.crowdcast.io/e/python-pyspark
 
 ### Data Sets
-- Fraud detection: The csv file has been uploaded above
+- Fraud detection: The csv file has been uploaded above (https://github.com/Anam-Mahmood/Introduction-to-Big-Data-analysis-Machine-Learning-in-Python-with-PySpark/blob/main/fraud_dataset.csv)
 - 5000.txt: https://s3.us.cloud-object-storage.appdomain.cloud/developer/default/tutorials/getting-started-with-pyspark/static/5000_points.txt?_ga=2.78032663.2020561126.1621848592-546428032.1620551429
 
 
